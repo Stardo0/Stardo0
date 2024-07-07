@@ -20,6 +20,6 @@ I am a passionate web developer who thrives on working with innovative ideas and
 <img align="left" alt="Materialui" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg" />
 <br />
 
-
+#
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stardo0&layout=donut-vertical)](https://github.com/Stardo0/github-readme-stats)
 
