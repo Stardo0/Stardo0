@@ -18,7 +18,7 @@ I am a passionate web developer who thrives on working with innovative ideas and
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.iconscout.com/icon/free/png-512/free-linux-21-1174928.png?f=webp&w=256" />
 <img align="left" alt="VS Code" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
 <img align="left" alt="Materialui" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg" />
-<br/>
+<br />
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stardo0&layout=donut-vertical)](https://github.com/Stardo0/github-readme-stats)
