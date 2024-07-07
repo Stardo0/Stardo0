@@ -27,5 +27,4 @@ I am a passionate web developer who thrives on working with innovative ideas and
 #
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stardo0&layout=donut-vertical)](https://github.com/Stardo0/github-readme-stats)
 <img src="https://myreadme.vercel.app/api/embed/Stardo0?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
