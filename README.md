@@ -1,4 +1,3 @@
-<a style="background-color:white;">
 
 # Marc Blattmann
 
