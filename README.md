@@ -7,4 +7,4 @@ I am a passionate web developer who thrives on working with innovative ideas and
 
 ### 🪛 Tools i Use
 
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src"https://cdn.iconscout.com/icon/free/png-512/free-react-3-1175109.png?f=webp&w=256" />
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.iconscout.com/icon/free/png-512/free-react-3-1175109.png?f=webp&w=256" />
